@@ -10,7 +10,11 @@
 // Add your code right below, good luck!
 
 
-
+let firstName = 'Carlos', lastName = 'Stevenson',
+ thisYear = 1965, birthYear = 1947;
+ let age = thisYear - birthYear
+ fullName = firstName + ' ' + lastName;
+let greeting = `Hello! My name is ${firstName} ${lastName} and I am ${age} years old.`;
 
 
 // Do not change this
